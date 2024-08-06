@@ -17,13 +17,13 @@ global.groupevent = true;                //This is the new variable for controll
 global.statusseen = false;                 //make true to view statuses 
 
 
-global.Owner = ["The one"];
-global.OwnerNumber = ["2349019760022"];
-global.ownertag = ["2349019760022"]; 
-global.OwnerName =  "THE ONE";
-global.BotName = "🐦(⁠☉⁠｡⁠☉⁠)⁠!";
-global.packname = "THE ONE ";                             //Do not change.
-global.author = "🐦The one (⁠☉⁠｡⁠☉⁠)⁠!";                               //Do not change.
+global.Owner = [""];
+global.OwnerNumber = [""];
+global.ownertag = [""]; 
+global.OwnerName =  "TAIRA MAKINO";
+global.BotName = "🐦MAKINO-md-v2";
+global.packname = "TAIRA MAKINO";                             //Do not change.
+global.author = "🐦Makino md MULTI-DEVICE";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
